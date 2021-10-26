@@ -1,0 +1,15 @@
+==75405== 
+==75405== HEAP SUMMARY:
+==75405==     in use at exit: 52,873,304 bytes in 600,833 blocks
+==75405==   total heap usage: 126,934,632 allocs, 126,333,799 frees, 29,106,940,497 bytes allocated
+==75405== 
+==75405== LEAK SUMMARY:
+==75405==    definitely lost: 52,872,600 bytes in 600,825 blocks
+==75405==    indirectly lost: 0 bytes in 0 blocks
+==75405==      possibly lost: 704 bytes in 8 blocks
+==75405==    still reachable: 0 bytes in 0 blocks
+==75405==         suppressed: 0 bytes in 0 blocks
+==75405== Rerun with --leak-check=full to see details of leaked memory
+==75405== 
+==75405== For lists of detected and suppressed errors, rerun with: -s
+==75405== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

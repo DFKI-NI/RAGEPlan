@@ -1,0 +1,9 @@
+problem drone
+size	3
+creatures 3
+trees 2
+targets 1
+activation	-5
+discount	0.95
+fDiscount	0.5
+entropy	0.5
