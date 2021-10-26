@@ -1,7 +1,7 @@
 # RAGE Plan: Relevance-Aware GEnerative Planning
 
-By Juan Carlos Saborío  
-Researcher, DFKI Labor Niedersachsen  
+By Juan Carlos Saborío Morales  
+DFKI Niedersachsen Lab  
 juan.saborio@dfki.de  
 
 Formerly KBS Group at the Institute of Computer Science, University of Osnabrück.
