@@ -8,7 +8,7 @@ Formerly KBS Group at the Institute of Computer Science, University of Osnabrüc
 
 Summary
 --------
-This is a relevance-based POMDP planner that generates action preferences internally and estimates "feature" values in order to reduce the dimensionality of otherwise large, complex POMDP's.
+RAGE is a relevance-based POMDP planner that generates action preferences internally and estimates "feature" values in order to reduce the dimensionality of otherwise large, complex POMDP's.  It can solve *very* large domains without relying on explicit rules or detailed prior knowledge.  
 
 In a nutshell:
   * PO-MCTS
@@ -20,9 +20,9 @@ In a nutshell:
   * Feature (de)activation
   * POMDP test domains (Cellar, Big Foot)
 
-The underlying MCTS sampling is based on POMCP, from the NIPS 2010 paper "Online Monte-Carlo Planning in Large POMDPs" by David Silver and Joel Veness.  This version of RAGE still uses some POMCP code.
+The underlying MCTS sampling is based on POMCP, from the NIPS 2010 paper "Online Monte-Carlo Planning in Large POMDPs" by David Silver and Joel Veness.  This version of RAGE still uses some POMCP code.  
 
-As of Summer 2020 this is one of the most efficient POMDP planners in *very* large domains that doesn't rely on explicit rules or prior knowledge.  This program was used (in different versions) to obtain experimental results in the related publications.
+This program was used (in different versions) to obtain experimental results in the following related publications.  
 
 Related publications
 --------------------
