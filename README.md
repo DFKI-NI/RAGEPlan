@@ -27,7 +27,7 @@ This program was used (in different versions) to obtain experimental results in 
 Related publications
 --------------------
 
-* Saborı́o, J.C. (2019) "Relevance-based Online Planning in Complex POMDPs".  PhD. Thesis, University of Osnabrück.
+* Saborı́o, J.C. (2020) "Relevance-based Online Planning in Complex POMDPs".  PhD. Thesis, University of Osnabrück.
 
 * Saborı́o, J. C. and Hertzberg, J. (2019). "Efficient planning under uncertainty with incremental refinement."
 In Proc. 35th Conference on Uncertainty in Artificial Intelligence, UAI 2019, Tel Aviv, Israel, July 22-25, 2019, page 112
