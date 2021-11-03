@@ -20,7 +20,7 @@ In a nutshell:
   * Feature (de)activation
   * POMDP test domains (Cellar, Big Foot)
 
-The underlying MCTS sampling is based on POMCP, from the NIPS 2010 paper "Online Monte-Carlo Planning in Large POMDPs" by David Silver and Joel Veness.  This version of RAGE still uses some POMCP code.  
+The underlying sampling is based on POMCP, from the NIPS 2010 paper "Online Monte-Carlo Planning in Large POMDPs" by David Silver and Joel Veness.  This version of RAGE still uses some POMCP code.  
 
 This program was used (in different versions) to obtain experimental results in the following related publications.  
 
